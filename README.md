@@ -1,2 +1,0 @@
-# Code-Samples
-Personal Projects
